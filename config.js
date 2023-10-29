@@ -8,15 +8,15 @@ import axios from 'axios'
 
 global.owner = [
   ['2348152119668', 'bamireid', true],
-  ['2348119715215', 'Bamireid', true], 
+  ['2349160276333', 'Lorenz', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2348152119668','2348119715215'] 
-global.prems = ['2348152119668', '2348119715215']
-global.allowed = ['2348152119668', '2348119715215']
+global.mods = ['2348152119668','2349160276333'] 
+global.prems = ['2348152119668', '2349160276333']
+global.allowed = ['2348152119668', '2349160276333']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'bamireids wife'
+global.botname = 'Silver'
 global.premium = 'true'
-global.packname = 'bamireids wife┃ᴮᴼᵀ' 
-global.author = 'bamireid' 
+global.packname = 'Silver┃ᴮᴼᵀ' 
+global.author = 'Lorenz' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
